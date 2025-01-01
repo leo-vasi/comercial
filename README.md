@@ -121,12 +121,12 @@ A aplicação trata exceções através das seguintes classes:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/leo-vasi/comercial.git
    ```
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd comercial
    ```
 
 3. Compile o projeto com Maven:
